@@ -7,7 +7,7 @@ My plan for github
 3. To use it for remind and practice.
 
 ----------------------------------------------------------------------------------------------------------
-- Programming language that going to use -
+Programming language that going to use
 
 - Html
 - CSS
