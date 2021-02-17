@@ -4,7 +4,7 @@ My plan for github
 
 2. To do configuration management for every developement project.
 
-3. To use it for remind and practice.
+3. To use it for review and practice.
 
 ----------------------------------------------------------------------------------------------------------
 Programming language that going to use
