@@ -1,4 +1,6 @@
-## -Practice section-
+# -Practice section-
+---
+## Repository summary
 
-- Html
-- CSS
+1. Html 기초 문법 
+1. Css 기초 문법
